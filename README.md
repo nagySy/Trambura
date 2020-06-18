@@ -1,0 +1,2 @@
+# Trambura
+a tanulás folyamata
